@@ -18,7 +18,7 @@ let isLoggedin : boolean = false
 
 // any
 
-let hero : string;
+let hero;
 
 function getHero(){
     return "thor"
